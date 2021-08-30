@@ -20,9 +20,11 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: Aug 30, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**- Render HTML Elements to the DOM**
+_ReactDOM.render(componentToRender, targetNode), where the first argument is the React element or component that you want to render, and the second argument is the DOM node that you want to render the component to._
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
